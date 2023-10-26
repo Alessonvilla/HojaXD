@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoja de vida :3</title>
+    <style>
+        body {
+            background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAHoAowMBEQACEQEDEQH/xAAaAAEAAwEBAQAAAAAAAAAAAAAAAQIDBAUH/8QAMhABAAIBAgEJBgYDAAAAAAAAAAECAwQRBRIhMTJBUWFxkUNSgaHB0RQiQmNysQYTI//EABgBAQADAQAAAAAAAAAAAAAAAAABAgME/8QAIxEBAAIBAwQCAwAAAAAAAAAAAAECAxExQQQSE1EUIWGRof/aAAwDAQACEQMRAD8A+GgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnYDYTogQAAAAAAAAAAAAAAnae43Dkz3J0kNp7kADpw6HU5q8qmK23fMbQtFZllbNSu8rW4fqa9NInylPZZEZ8c8sbabNHs7fCFe2fS/fX2p/qye5b0NJW1haMGWfZX9DtmUd1fafw2TtjZpGKyJyVWnTX26tvRbwyjyQztitHTWVJxzC8TqptMdimiUIAAAExEz0JiJGsYZnrWpWPGWkY53lGrWmDFPTnx+k/ZtXHTmWdrzxDqx6TFO3JyYrfCXRXFj4mGVsto4bxouzfH/TScUTuznNK0cKvk6nJmf5QytghX5Om7Sn+O6q3PNKxHfN6/dl4IVnracOrDwzS6H8+e+K1+6Ji23oeOkMbdRkyfVWltbTeIpSJ8yZjhn4bcymuecnTjjbwhXVE0iu0umvCM+orF60nHWf1X2rCe38qxnin5THBMdOfNxHDM+7XPSPqmK1jeT5luKT/WduHaas81sFvG2prP1axGP2fIyW9/pjfHosW85dZpMUR2Rli0+ld5aRlxVa1rmttEvN12t4dHNhvlzTt1opyY+fP8lLdXj9OvFgzb2+nk5c+O0/lpaPOXPfqKztDrikxuxmYnvY2vEr6KMkgAAJ3nslPdIboDcDlSDfFq8+Lq5J27p52lct45UtjrbeHVj4lHtce/jVtHUe2Nun9Oiur01o58k184TOaJZThyRwt+L0leecsz4VhWckHiyTwpPFNPWf+eC157JvO0M5yelo6W3MssnHNd0Yb1wR+1XafXpV75ax02OPvRwZtRmz2m2bLfJae29pmfmpq1itY2hnvIvqbyGsm8iDeQQAAAAAAAAAAACdwAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//Z)
+
+        
+        }
+
+        .texto {
+           color: white;
+        }
+
+
+        </style>
+</head>
+
+<body>
+    <center>
+    <h1 style="color: aliceblue;"></h1>
+    <img src="https://i.pinimg.com/originals/55/84/81/558481347556e1666ec8c9094c694dad.jpg" alt="" width="250px">
+    <br>
+    <br>
+    <h1 style="color: aliceblue;">Datos personales</h1>
+    <div class="texto">
+    <h2>Nombre y apellidos : rick sanchez</h2>
+    <h2>Fecha de nacimiento : nov/12/1958</h2>
+    <h2>Identificacion : No la necesito perr*, soy el ser mas inteligente del universo</h2>
+    <h2>Genero : masculino</h2>
+    <h2>Estado civil : Buscando venganza</h2>
+    <h2>Direccion : Dimension C-137</h2>
+    <h2>Telefono : 32256351</h2>  
+    <h2>Correo electronico : wubbalubbadupdup.@gmail.com</h2>
+    <br>
+    <h1>Experiencia laboral</h1>
+    <h2>
+        "Burp, bueno, mi experiencia laboral es, ya sabes, una especie de cosa fugaz y retorcida. Me dedico a la ciencia loca, pero no me limito a eso, ¿verdad, Morty? 
+        Soy un científico renegado, un inventador interdimensional y un completo desafío a la lógica y la ética. Burp, así que aquí tienes un resumen de mis 'labores':
+        
+        Científico Loco: Bueno, básicamente, hago lo que me da la gana en mi garaje, ya sabes, creando todo tipo de artilugios absurdos y experimentando con la realidad misma.
+        
+        Consultor Multidimensional: De vez en cuando, asesoro a otros Rick y viajo a través de múltiples dimensiones para meterme en problemas. Por supuesto, eso siempre es una diversión.
+        
+        Inventor de las Cosas más Locas: Burp, he creado algunas de las invenciones más increíbles y estúpidas, como la pistola de portales y un montón de máquinas inútiles, solo porque puedo.
+        
+        Aventurero Interdimensional: ¿Te mencioné que mi nieto Morty y yo nos aventuramos en mundos desconcertantes y a menudo peligrosos? Bueno, eso también cuenta como trabajo en mi libro.
+        
+        </h2>
+        <br>
+        <h1>Formacion academica </h1>
+        <h2>"Formación académica, ¿en serio? Bueno, si insistes. Tengo un conocimiento que abarca más allá de las barreras de las dimensiones y la física cuántica. Mi educación, en realidad, es un poco complicada de describir, pero aquí va:
+
+            Autodidacta Multiverso: Burp, soy un autodidacta en todo lo que hago. Mi curiosidad infinita y mi capacidad para aprender me han llevado a explorar y comprender las complejidades del multiverso sin necesidad de una educación formal.
+            
+            Ph.D. en Beber: Ah, y no olvides mi Ph.D. en beber en la Universidad de la Vida. No es un título que puedas conseguir en una escuela, pero lo he ganado en cada rincón del multiverso.
+            
+            Experiencia Práctica: Mi verdadera formación viene de la experiencia en el campo, viajando por innumerables dimensiones, inventando tecnología loca y burlándome de las limitaciones de la realidad.</h2>
+        <br>
+        <h1>Logros</h1>
+        <h2>¡Claro, Morty! Aquí tienes una lista de algunos de mis logros notables, al estilo de Rick:
+
+            Destrucción Accidental de Civilizaciones: Bueno, en mis momentos más descuidados, he logrado la destrucción accidental de un par de civilizaciones enteras en dimensiones paralelas. ¿Quién diría que mezclar gatos y perros podría ser tan explosivo, eh?
+        
+            Salvamento del Multiverso: Por otro lado, he salvado el multiverso de innumerables amenazas, desde entidades cósmicas hasta tiranos galácticos. No es gran cosa, realmente.
+        
+            Inventor Genio: He creado inventos locos, como la pistola de portales, los cristales de portal y los robots Meseeks. Algunos de ellos han causado más problemas que soluciones, pero eso es parte de la diversión.
+        
+            Exploración Multidimensional: He viajado por múltiples dimensiones, explorando mundos extraños y peligrosos, descubriendo secretos cósmicos y retando la lógica convencional.</h2>
+        
+
+
+ 
+    
+
+</div>
+    </center>
+</body>
+</html>
